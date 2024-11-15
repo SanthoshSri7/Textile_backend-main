@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Round Neck Shirts",
+        "price": 800,
+        "category": "T-Shirts",
+        "image": "https://www.bing.com/th?id=OPHS.e25FRrURCRmITA474C474&o=5&pid=21.1&w=150&h=150&qlt=100&dpr=1.5&c=8&pcl=f5f5f5"
+    },
+    {
+        "name": "Sports Shirts",
+        "price": 800,
+        "category": "T-Shirts",
+        "image": "https://m.media-amazon.com/images/I/51LnzMewgsL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+        "name": "Full Hand Tshirts",
+        "price": 1500,
+        "category": "T-Shirts",
+        "image": "https://www.bing.com/th?id=OPHS.%2b0%2bPR%2f9GXM%2fRzA474C474&o=5&pid=21.1&w=150&h=150&qlt=100&dpr=1.5&c=8&pcl=f5f5f5"
+    },
+    {
+        "name": "Light Jeans",
+        "price": 1500,
+        "category": "Jeans",
+        "image": "https://www.bing.com/th?id=OPHS.hbzStRGdwQFrwQ474C474&o=5&pid=21.1&w=150&h=225&qlt=100&dpr=1.5&pcl=f5f5f5"
+    }
+]
